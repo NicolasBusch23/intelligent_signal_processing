@@ -10,3 +10,9 @@ matplotlib>=3.7.0
 
 # --- Signal Processing ---
 scipy>=1.10.0
+
+# --- Optimization Algorithms
+pyswarms # PSO
+
+# --- Control
+control
