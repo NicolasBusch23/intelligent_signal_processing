@@ -16,3 +16,10 @@ pyswarms # PSO
 
 # --- Control
 control
+
+# --- MATLAB Engine API
+matlab
+matlabengine
+
+# --- Fuzzy Logic ---
+scikit-fuzzy
