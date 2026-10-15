@@ -1,7 +1,8 @@
 ##################################
 # Referencias:
-# - 
+# - https://www.youtube.com/watch?v=__0nZuG4sTw
 # - https://www.youtube.com/watch?v=CBTEVFphv-E
+# - https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem.html#example-plot-tipping-problem-py
 ##################################
 
 import numpy as np
