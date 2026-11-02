@@ -7,6 +7,7 @@ statsmodels>=0.14.0
 
 # --- Visualization ---
 matplotlib>=3.7.0
+seaborn
 
 # --- Signal Processing ---
 scipy>=1.10.0
@@ -23,3 +24,14 @@ matlabengine
 
 # --- Fuzzy Logic ---
 scikit-fuzzy
+
+# --- Simulation ---
+# sim
+coppeliasim-zmqremoteapi-client>=2.0.4
+
+# --- Datasets ---
+kagglehub
+mlcroissant
+
+# --- Machine Learning ---
+tensorflow

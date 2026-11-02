@@ -140,7 +140,7 @@ def calculo_propina(val_servicio, val_comida, caso_prueba = False):
 
     #---- 1. Definición de variables y funciones de pertenencia
 
-    #-- Dominio de variables de entrada (servicio y comida) y salida (propina)
+    #-- Universos de discursos de variables de entrada (servicio y comida) y salida (propina)
     x1_servicio = np.linspace(0, 10, 1000) # Calidad de atención del servicio (0 a 10)
     x2_comida = np.linspace(0, 10, 1000) # Calidad de la comida (0 a 10)
     y_propina = np.linspace(0, 25, 1000) # Propina (0% a 25%)
